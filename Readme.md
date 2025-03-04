@@ -6,7 +6,7 @@ Code of :
 
 [**WONG Lik Hang Kenny**](https://kenn3o3.github.io/)
 
-[[Paper & Appendices]()] [[GitHub](https://github.com/Kenn3o3/MCoT-LLM-VLN)]
+[[Paper & Appendices]()] [[GitHub](https://github.com/Kenn3o3/MTLP-VLN)]
 
 ## Prerequisites
 
